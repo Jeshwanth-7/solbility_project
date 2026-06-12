@@ -2,3 +2,4 @@
 *.csv filter=lfs diff=lfs merge=lfs -text
 notebooks/xgb_pipeline filter=lfs diff=lfs merge=lfs -text
 notebooks/Y filter=lfs diff=lfs merge=lfs -text
+notebooks/descriptor_df filter=lfs diff=lfs merge=lfs -text

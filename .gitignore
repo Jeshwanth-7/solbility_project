@@ -14,3 +14,5 @@ solubility_predictor/output/
 # OS files
 .DS_Store
 Thumbs.db
+
+notebooks/catboost_info/
